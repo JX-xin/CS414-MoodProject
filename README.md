@@ -19,7 +19,7 @@ Authors: Lirim Mehmeti and Jiaxin Jiang
 
 1. navigation: activities (java version) 
 
-​       [How to Implement Navigation Drawer With Activity in Android Studio | NavDrawer | Android Coding](https://www.youtube.com/watch?v=iesMhKUtYT8&list=PLkbnctMtUcaT1he4QO6Oqfth3cRoEOQUJ&index=4&t=1427s) 
+   [How to Implement Navigation Drawer With Activity in Android Studio | NavDrawer | Android Coding](https://www.youtube.com/watch?v=iesMhKUtYT8&list=PLkbnctMtUcaT1he4QO6Oqfth3cRoEOQUJ&index=4&t=1427s) 
 
 2. gradient background 
    [Make a Weather App for Android | Android Studio | Kotlin](https://www.youtube.com/watch?v=gj0g1a75Lmo&list=PLkbnctMtUcaT1he4QO6Oqfth3cRoEOQUJ&index=2&t=172s) 
@@ -33,3 +33,9 @@ Authors: Lirim Mehmeti and Jiaxin Jiang
 1. It’s suggested to use Api 30 of the virtual device 
 
 2. Tested device: Pixel 5 API 30, Nexus 5X API 30 
+
+# Some Screenshots of Main Functions
+<img src="https://user-images.githubusercontent.com/66004742/216561998-ba06db94-628a-4c83-aa56-82d90c2d77cb.png" alt="Index" width="300" height="400"> <img src="https://user-images.githubusercontent.com/66004742/216564935-03f042bf-d340-48e3-82c7-76749dc1eaa7.png" alt="Write a Diary" width="300" height="400"> <img src="https://user-images.githubusercontent.com/66004742/216566420-dbd470aa-98ce-48af-959b-625a41eb6312.png" alt="Text Emotional Analysis" width="300" height="400">
+
+
+
