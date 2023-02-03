@@ -35,7 +35,9 @@ Authors: Lirim Mehmeti and Jiaxin Jiang
 2. Tested device: Pixel 5 API 30, Nexus 5X API 30 
 
 # Some Screenshots of Main Functions
-<img src="https://user-images.githubusercontent.com/66004742/216561998-ba06db94-628a-4c83-aa56-82d90c2d77cb.png" alt="Index" width="300" height="400"> <img src="https://user-images.githubusercontent.com/66004742/216564935-03f042bf-d340-48e3-82c7-76749dc1eaa7.png" alt="Write a Diary" width="300" height="400"> <img src="https://user-images.githubusercontent.com/66004742/216566420-dbd470aa-98ce-48af-959b-625a41eb6312.png" alt="Text Emotional Analysis" width="300" height="400">
+<img src="https://user-images.githubusercontent.com/66004742/216561998-ba06db94-628a-4c83-aa56-82d90c2d77cb.png" alt="Index" width="300" height="400"> 
+<img src="https://user-images.githubusercontent.com/66004742/216564935-03f042bf-d340-48e3-82c7-76749dc1eaa7.png" alt="Write a Diary" width="300" height="400"> 
+<img src="https://user-images.githubusercontent.com/66004742/216566420-dbd470aa-98ce-48af-959b-625a41eb6312.png" alt="Text Emotional Analysis" width="300" height="400">
 
 
 
