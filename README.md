@@ -1,5 +1,12 @@
 # CS414-MoodProject
 Authors: Lirim Mehmeti and Jiaxin Jiang
+
+### Main technology:
+Kotlin, Room Database
+
+### Points
+Fragments, Animation, Api, Progress Bar, Pie Chart, Media Player,  Recyclerview, Database
+
 # Description of the App
 
 ##### The app is Mood Diary, which is used to record the mood of the user, monitor user's energy bar, write diaries and get their emotion analysis, and user can also read and search the positive quotes to encourage themselves.
